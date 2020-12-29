@@ -7,6 +7,10 @@ Code is in `c++` in its calculation is in parallel using `pthread` library.
 
 Also serial code exist.
 
+If you dont know what is neural network see:
+
+<a href="https://ryash1921.medium.com/introduction-neural-networks-single-layer-neural-network-b80ddaa943c7">Introduction to single layer neural network</a>
+
 ## How to use:
 
 For running the project you just need to go in `parallel` or `serial` folder and run `make` like this:
